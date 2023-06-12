@@ -1,7 +1,10 @@
-### Hi there 👋
+### Prof Richards 👋
+
+![download](https://github.com/profRichards/profRichards/assets/136381155/6b57f0c4-f5a0-4769-9ca2-850b54da3d13)
 
 <!--
-**profRichards/profRichards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**profRichards/profRichards** is a ✨ _speci![download](https://github.com/profRichards/profRichards/assets/136381155/68aa2fec-bfa8-47c3-a553-504234c5906d)
+al_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
